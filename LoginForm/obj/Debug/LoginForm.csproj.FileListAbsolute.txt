@@ -1,0 +1,15 @@
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Duong\source\repos\API_Example\LoginForm\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Duong\source\repos\API_Example\LoginForm\obj\Debug\LoginForm.pdb
